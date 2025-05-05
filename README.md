@@ -11,6 +11,22 @@
 ###
 
 <p align="left">✨ Creating bugs since: 2020<br>📚 I'm currently learning: Python & JavaScript<br>🎯 Goals: Not to punch my monitor</p>
+⭐️ **Fun Fact**: I'm a scooby doo fan. 🐕
+
+
+## 🔭 Current Projects
+
+- 🌐 Building a personal portfolio to showcase my work and projects.
+- 🤖 Experimenting with homelabs & home automation.
+- 🛠️ Contributing to open-source projects to give back to the community.
+
+
+
+## 📊 My Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tigerjess12&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tigerjess12&layout=compact&theme=radical)
+
 
 ###
 

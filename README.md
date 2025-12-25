@@ -1,66 +1,82 @@
-<h1 align="left">Hey 👋 What's up? I'm tigerjess12.</h1>
+# Hey 👋 I'm tigerjess12
 
-<p align="left">A small speck from **New Zealand 🇳🇿** exploring the vast universe of technology.</p>
+**CS & Design student from New Zealand 🇳🇿** who codes, breaks things, and occasionally fixes them.
 
 ---
 
 ## 💻 About Me
+
 **Student | Computer Science & Creative Design**
 
+- Been coding since: **2019** (mostly creating bugs tbh)
+- Daily work: **Python** and **JavaScript**
+- Current status: Figuring out my life
+
+---
+
+## 🔭 What I'm Up To
+
+- 🌐 Building my portfolio
+- 🤖 Messing around with **homelabs** and trying not to break my network
+- 🛠️ Trying to contribute to **open-source** projects
+
+---
+
+## 🛠️ Skills & Technologies
+
+### I Code With
 <p align="left">
-✨ Creating bugs since: **2020**<br>
-📚 I'm currently learning: **Python** (my main squeeze 🐍) & **JavaScript** (learning every day!)<br>
-🎯 Goals: Not to punch my monitor & still figuring out what I want to do with my life—but loving the journey!
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+</p>
+
+### Design With
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dreamweaver/dreamweaver-original.svg" alt="Dreamweaver" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+</p>
+
+### Played With
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" alt="Discord.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+### Wanting to Learn
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
 </p>
 
 ---
 
-## 🔭 Current Projects & Interests
+## 🎉 Fun Facts
 
-- 🌐 Building a personal portfolio to showcase my work and projects.
-- 🤖 Experimenting with **homelabs** & home automation.
-- 🛠️ Contributing to **open-source** projects to give back to the community.
-- **Project Highlight**: [Meme Bot](https://github.com/tigerjess12/Meme-Spawner) 🤖  
-
----
-
-## 🛠️ I Code With
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-</div>
+- **🐕 Proud Dog Owner** — Rosie keeps me company during coding sessions!
+- **📛 Name Origin** — My username comes from my past pets Tiger (Cat) & Jess (Dog) who inspired me
+- **🎬 Interests** — I'm a Scooby Doo fan and always up for a good meme
 
 ---
 
-## 📊 My Stats & Languages
+## 🌐 Let's Chat
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tigerjess12&show_icons=true&theme=radical)](https://github.com/tigerjess12)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tigerjess12&layout=compact&theme=radical)](https://github.com/tigerjess12)
+Hit me up if you want to talk!
 
----
-
-## 🌐 Connect with Me
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" /> **tigerjess12**
-  <a href="https://www.youtube.com/@tigerjess12" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" /> **@tigerjess12**
+<p align="left">
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-</div>
+  <a href="https://www.youtube.com/@tigerjess12" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
 
 ---
 
-## 🐶 Fun Facts
-
-- Proud **dog parent** to Rosie 🐕
-- Past pets: Tiger & Jess (they inspired my username!)
-- Always up for a good **meme**.
-- I'm a **Scooby Doo fan**! 🔎
-
----
-
-**Thanks for stopping by! 🚀**
+<p align="center">Thanks for reading all this 🚀</p>
